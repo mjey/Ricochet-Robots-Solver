@@ -1,0 +1,2 @@
+# Ricochet-Robots-Solver
+Ricochet Robots is a puzzle game played on a 16x16 grid board. The player can move robots of four different colors and tries to move a robots to a target of the same color with as few moves as possible. Robots can only move in straight lines until they hit an obstacle, a wall or another robot. Any robot can be moved at any point. The player to find the shortest path gets a token. After every target on the board has been visited the player with the most tokens wins.
